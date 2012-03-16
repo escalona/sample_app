@@ -42,7 +42,7 @@ test:
   adapter: postgresql
   database: sample_app_test
   pool: 5
-  username: Aaron
+  username: rails # Had to create new super user to get database running
   password:
   timeout: 5000
 
